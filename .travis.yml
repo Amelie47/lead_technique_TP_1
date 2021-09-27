@@ -6,5 +6,5 @@ deploy:
   provider: heroku
   api_key: "c6608a9e-2c95-4c7c-a33c-e174f74c716f"
   app:
-    main: lead-technique-tp1-staging
-    production: lead-technique-tp1-production
+    develop: lead-technique-tp1-staging
+    main: lead-technique-tp1-production
